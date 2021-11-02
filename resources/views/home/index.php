@@ -7,5 +7,6 @@
 <body>
     <h2>home.html測試</h2>
     <p>home/index.php測試</p>
+    <p>controller</p>
 </body>
 </html>
